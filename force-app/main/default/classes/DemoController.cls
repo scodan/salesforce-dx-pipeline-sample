@@ -1,5 +1,7 @@
 public with sharing class DemoController {
-
+    /**
+    * Scott
+    */
     private String appVersion = '1.0.0';
 
     /**
